@@ -1,10 +1,10 @@
 # Dayz Castles
 
 This file contains all custom castles:
-- Northeast Guglovo (https://github.com/ggdb83/castle-northeast-guglovo)
+- North East Guglovo (https://github.com/ggdb83/castle-northeast-guglovo)
 - West Krutyeskaly
 - North Krasnoe (https://github.com/ggdb83/castle-north-krasnoe)
-- Orlyeozero
+- North East Orlyeozero (https://github.com/ggdb83/castle-north-east-orlyeozero)
 - Northwest Pavalovo (https://github.com/ggdb83/castle-north-west-pavlovo)
 - North West Tikhiyzaliv (https://github.com/ggdb83/castle-north-west-tikhiyzaliv)
 - North East Msta (https://github.com/ggdb83/castle-north-east-msta)

@@ -7,7 +7,7 @@ This file contains all custom castles:
 - Orlyeozero
 - Northwest Pavalovo
 - North Tikhiyzaliv
-- North Msta
+- North East Msta (https://github.com/ggdb83/castle-north-east-msta)
 
 See sub castle projects for images and locations.
 

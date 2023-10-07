@@ -1,7 +1,7 @@
 # Dayz Castles
 
 This file contains all custom castles:
-- Northeast Guglovo
+- Northeast Guglovo (https://github.com/ggdb83/castle-northeast-guglovo)
 - West Krutyeskaly
 - North Krasnoe
 - Orlyeozero

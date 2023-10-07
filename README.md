@@ -3,7 +3,7 @@
 This file contains all custom castles:
 - Northeast Guglovo (https://github.com/ggdb83/castle-northeast-guglovo)
 - West Krutyeskaly
-- North Krasnoe
+- North Krasnoe (https://github.com/ggdb83/castle-north-krasnoe)
 - Orlyeozero
 - Northwest Pavalovo
 - North West Tikhiyzaliv (https://github.com/ggdb83/castle-north-west-tikhiyzaliv)
